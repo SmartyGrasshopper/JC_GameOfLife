@@ -1,5 +1,5 @@
 - John Horton Conway's "Game of life" based simulation
-- by Grasshopper (Me)
+- by SmartyGrasshopper (Me)
 - Used Python Programming Language
 - To use this program, standard cpython should be installed on your system (visit https://www.python.org to get it)
 - Double Click 'Game.py' to launch the program
